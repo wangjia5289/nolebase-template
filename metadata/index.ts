@@ -1,6 +1,6 @@
 /** 文本 */
-export const siteName = 'WangJia'
-export const siteShortName = 'WangJia'
+export const siteName = 'Nólëbase'
+export const siteShortName = 'Nólëbase'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
 /** 文档所在目录 */
